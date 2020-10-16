@@ -1,4 +1,4 @@
-Deep Learning model for image classification using FastAI V2.
+Deep Learning model for image classification using FastAI V2. The model identifies if the image is a cake or an animal.
 
 This is a prototype of the image classifier built.
 
